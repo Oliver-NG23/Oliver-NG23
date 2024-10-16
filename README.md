@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Oliver Navarro! 👋
 
-<!--
-**Oliver-NG23/Oliver-NG23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub Profile! 🌟
 
-Here are some ideas to get you started:
+<h4 align="left">📚 I´m Currently studying Stadistical Industrial Engineer, specialized in Stadistics <br>🎯 Goals: Become a data scientist <br>🎲 Fun fact: I didn't think coding was for me until I try it 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+### Programming
+[![Programming](https://skillicons.dev/icons?i=r)](https://skillicons.dev)
+
+
+### Tools
+[![Lean Six Sigma](https://img.icons8.com/ios-filled/50/000000/process.png)](https://www.sixsigmadaily.com)
+
+
+
+
+
