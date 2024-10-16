@@ -10,9 +10,9 @@ Welcome to my GitHub Profile! 🌟
 ## Skills
 
 ### Programming
+[![Python](https://img.icons8.com/color/48/000000/python.png)](https://www.python.org)
 [![Programming](https://skillicons.dev/icons?i=r)](https://skillicons.dev)
 [![Power BI](https://img.icons8.com/color/48/000000/power-bi.png)](https://powerbi.microsoft.com)
-[![Python](https://img.icons8.com/color/48/000000/python.png)](https://www.python.org)
 
 
 ### Tools
