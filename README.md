@@ -11,7 +11,11 @@ Welcome to my GitHub Profile! 🌟
 
 ### Programming
 [![Programming](https://skillicons.dev/icons?i=r)](https://skillicons.dev)
+
 [![Power BI](https://img.icons8.com/color/48/000000/power-bi.png)](https://powerbi.microsoft.com)
+
+[![Python](https://img.icons8.com/color/48/000000/python.png)](https://www.python.org)
+
 
 ### Tools
 ![Lean Six Sigma](https://github.com/Oliver-NG23/Oliver-NG23/blob/main/lean%20six%20sigma.png)
