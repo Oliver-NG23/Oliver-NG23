@@ -14,7 +14,7 @@ Welcome to my GitHub Profile! 🌟
 
 
 ### Tools
-![Lean Six Sigma](https://github.com/TU_USUARIO/TU_REPOSITORIO/blob/main/assets/lean-six-sigma.png)
+![Lean Six Sigma](https://github.com/Oliver-NG23/Oliver-NG23/blob/main/lean%20six%20sigma.png)
 
 
 
