@@ -14,7 +14,8 @@ Welcome to my GitHub Profile! 🌟
 
 
 ### Tools
-[![Lean Six Sigma](https://img.icons8.com/ios-filled/50/000000/process.png)](https://www.sixsigmadaily.com)
+![Lean Six Sigma](https://github.com/TU_USUARIO/TU_REPOSITORIO/blob/main/assets/lean-six-sigma.png)
+
 
 
 
