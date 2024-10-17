@@ -17,9 +17,3 @@ Welcome to my GitHub Profile! 🌟
 
 ### Tools
 ![LSG MINI](https://github.com/Oliver-NG23/Oliver-NG23/blob/main/LSG%20MINI.png)
-
-
-
-
-
-
