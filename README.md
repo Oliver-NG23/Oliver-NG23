@@ -14,6 +14,3 @@ Welcome to my GitHub Profile! 🌟
 [![Programming](https://skillicons.dev/icons?i=r)](https://skillicons.dev)
 [![Power BI](https://img.icons8.com/color/48/000000/power-bi.png)](https://powerbi.microsoft.com)
 
-
-### Tools
-![LSG MINI](https://github.com/Oliver-NG23/Oliver-NG23/blob/main/LSG%20MINI.png)
